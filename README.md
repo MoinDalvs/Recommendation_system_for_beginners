@@ -109,6 +109,20 @@ This item-item similarity is solve a problem that occurs in a user user-based si
 
 Here we find a similarity matrix of items/movies, here we find a similarity between the two movies. to find a similarity we use a cosine distance between the two movies.
 
+![image](https://user-images.githubusercontent.com/99672298/194807098-9a210ef5-a1d4-431f-b5c4-6be50a4b2a83.png)
+
+**Simij= similarity(itemi , itemj)**
+
+**So how to recommend an item to the user?**
+
+Let’s suppose we have to recommend new items to user10, and we know a user10 already likes/watch item7,8,1. Now we go to the item-item similarity matrix, we take the most similar item to items7,8,1 based on the similarity values.
+
+let’s suppose the most similar item for item7 is {item9, item4, item10}, the Most similar item to item8 is {item19, item 4, item10} and the Most similar item to item 1 is {item9, item14, item10}
+
+Now we take a very common item from every set of items and the common items are {item9, item4, item10, item 19, item 14} and we recommend these all items to user10.
+
+**The most popular filtering is item item-based filtering because over time item is not changed like the user user-based similarity.**
+
 ### Content based methods
 Unlike collaborative methods that only rely on the user-item interactions, content based approaches use additional information about users and/or items. If we consider the example of a movies recommender system, this additional information can be, for example, the age, the sex, the job or any other personal information for users as well as the category, the main actors, the duration or other characteristics for the movies (items).
 
