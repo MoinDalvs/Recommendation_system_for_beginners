@@ -161,7 +161,8 @@ Finally, in content based methods some latent interaction model is also assumed.
 ![image](https://user-images.githubusercontent.com/99672298/194996007-76a3e6ba-2ec9-460c-8cfb-d73314067768.png)
 ### `Read and catch up on content:`
 - [Gradient Descent article](https://github.com/MoinDalvs/Gradient_Descent_For_beginners/blob/main/README.md) ✍️
-
+![image](https://user-images.githubusercontent.com/99672298/194996304-e2e46734-acfa-4008-a0ce-83d74c28fc92.png)
+![image](https://user-images.githubusercontent.com/99672298/194996386-251dfef9-2507-4dea-9f6e-9445e92656ae.png)
 
 ## Author
 
