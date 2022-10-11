@@ -145,6 +145,13 @@ In model based collaborative methods, some latent interaction model is assumed. 
 
 Finally, in content based methods some latent interaction model is also assumed. However, here, the model is provided with content that define the representation of users and/or items: for example, users are represented by given features and we try to model for each item the kind of user profile that likes or not this item. Here, as for model based collaborative methods, a user-item interactions model is assumed. However, this model is more constrained (because representation of users and/or items are given) and, so, the method tends to have the highest bias but the lowest variance.
 
+![image](https://user-images.githubusercontent.com/99672298/194988514-a2294d05-8547-4ca6-8c16-3f958f26b387.png)
+![image](https://user-images.githubusercontent.com/99672298/194988552-9a8c87d7-4b42-4b90-9d2c-8d5ed45df7b3.png)
+![image](https://user-images.githubusercontent.com/99672298/194988694-0c829b0a-6eb8-4e90-9115-b2a58ccfeeeb.png)
+![image](https://user-images.githubusercontent.com/99672298/194988789-7e11b37c-8654-4838-9274-9ba86462b924.png)
+![image](https://user-images.githubusercontent.com/99672298/194988829-13531c90-313c-411b-818d-3f7b75ac5bd4.png)
+
+
 ## Author
 
 <table>
